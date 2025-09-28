@@ -13,7 +13,7 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-3" value="配置后进行测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FBsj_86G4VGC-KwKwP59-4" value="视若飞测试OK，产商测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
