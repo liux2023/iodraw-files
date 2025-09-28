@@ -52,7 +52,7 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-16" value="选择渠道商（通过渠道号，区域筛选）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FBsj_86G4VGC-KwKwP59-17" value="将对应的所选记录批量上架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
