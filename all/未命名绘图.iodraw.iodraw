@@ -22,6 +22,9 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-6" value="设备上线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FBsj_86G4VGC-KwKwP59-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
