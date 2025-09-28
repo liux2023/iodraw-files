@@ -55,10 +55,7 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-17" value="将对应的所选记录批量上架（保存配置）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-18" value="指定渠道号，或者软件版本，或者mac地址段进行上架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FBsj_86G4VGC-KwKwP59-19" value="正式上线的设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
