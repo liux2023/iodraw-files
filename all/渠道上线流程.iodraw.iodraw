@@ -61,14 +61,8 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-16" value="选择渠道商（通过渠道号，区域筛选）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FBsj_86G4VGC-KwKwP59-17" target="FBsj_86G4VGC-KwKwP59-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FBsj_86G4VGC-KwKwP59-17" value="将对应的所选记录批量上架（保存配置）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-19" value="正式上线的设备如何不受影响，拿到的是原来的配置？？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FBsj_86G4VGC-KwKwP59-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FBsj_86G4VGC-KwKwP59-20">
           <mxGeometry relative="1" as="geometry">
@@ -149,8 +143,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-54" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="400" width="120" height="80" as="geometry" />
+        <mxCell id="FBsj_86G4VGC-KwKwP59-54" value="正式上线的设备如何不受影响，拿到的是原来的配置？？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="310" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
