@@ -105,6 +105,9 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-25" value="Launcher版本差异化管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FBsj_86G4VGC-KwKwP59-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FBsj_86G4VGC-KwKwP59-26" target="FBsj_86G4VGC-KwKwP59-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FBsj_86G4VGC-KwKwP59-26" value="Launcher端发现版本有差异，发送请求，带mac地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="630" width="120" height="60" as="geometry" />
         </mxCell>
