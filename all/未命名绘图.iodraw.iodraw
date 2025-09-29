@@ -64,6 +64,9 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-21" value="选择渠道商进行下架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FBsj_86G4VGC-KwKwP59-22" value="直接进行下架处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
