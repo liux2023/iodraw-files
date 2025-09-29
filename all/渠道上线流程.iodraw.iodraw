@@ -149,7 +149,7 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-56" value="在渠道记录里，若该渠道已上线，则渠道记录内的所有应用和海报属于上架状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="750" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-57" value="对于单个应用或者海报而言，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FBsj_86G4VGC-KwKwP59-57" value="对于单个应用或者海报而言，若已被渠道选中并且上架的，属于上架应用或者海报，状态为“上架”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="755" width="250" height="65" as="geometry" />
         </mxCell>
       </root>
