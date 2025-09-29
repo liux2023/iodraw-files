@@ -143,9 +143,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-54" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="310" width="140" height="120" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
