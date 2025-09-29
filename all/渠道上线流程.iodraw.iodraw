@@ -141,6 +141,9 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-51" value="保存配置后，生成一份新的配置记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FBsj_86G4VGC-KwKwP59-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FBsj_86G4VGC-KwKwP59-17" target="FBsj_86G4VGC-KwKwP59-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
