@@ -88,8 +88,11 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-26" value="Launcher端发现版本有差异，发送请求，带mac地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-27" value="mac地址不在地址段之内，不做升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="585" width="120" height="60" as="geometry" />
+        <mxCell id="FBsj_86G4VGC-KwKwP59-32" value="mac地址是否匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FBsj_86G4VGC-KwKwP59-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
