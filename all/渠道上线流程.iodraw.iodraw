@@ -146,8 +146,8 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-55" value="应用、海报上下架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-56" value="应用或海报被渠道选中后，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="FBsj_86G4VGC-KwKwP59-56" value="在渠道记录里，若该渠道已上线，则渠道记录内的所有应用和海报属于上架状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="750" width="250" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
