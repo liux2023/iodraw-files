@@ -143,8 +143,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-54" value="正式上线的设备如何不受影响，拿到的是原来的配置？？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="310" width="120" height="80" as="geometry" />
+        <mxCell id="FBsj_86G4VGC-KwKwP59-54" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="310" width="140" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
