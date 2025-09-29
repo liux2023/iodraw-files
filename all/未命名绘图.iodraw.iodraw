@@ -43,8 +43,11 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-7" value="变为存量设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FBsj_86G4VGC-KwKwP59-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FBsj_86G4VGC-KwKwP59-14" target="FBsj_86G4VGC-KwKwP59-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FBsj_86G4VGC-KwKwP59-14" value="存量设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FBsj_86G4VGC-KwKwP59-15" value="上架新应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="320" width="120" height="60" as="geometry" />
