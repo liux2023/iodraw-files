@@ -82,7 +82,7 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-27" value="mac地址不在地址段之内，不做升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FBsj_86G4VGC-KwKwP59-28" value="mac地址在范围之内，进行升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
