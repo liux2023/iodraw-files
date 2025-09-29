@@ -94,7 +94,7 @@
         <mxCell id="FBsj_86G4VGC-KwKwP59-33" value="升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FBsj_86G4VGC-KwKwP59-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FBsj_86G4VGC-KwKwP59-34" value="不升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
